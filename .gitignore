@@ -32,3 +32,7 @@
 /TaskManagerComposite/obj/Release/net8.0/TaskManager.assets.cache
 /TaskManagerComposite/obj/Release/net8.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
 /TaskManagerComposite/obj/Release/net8.0/TaskManager.GlobalUsings.g.cs
+/EncryptedFileDecorator/bin/Debug/net8.0
+/EncryptedFileDecorator/obj/Debug/net8.0
+/EncryptedFileDecorator/obj/Release/net8.0
+/EncryptedFileDecorator/obj
